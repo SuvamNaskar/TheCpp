@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "TheCpp\\x64\\Debug\\func.h.obj",
+            "outputs": [
+                "C:\\Users\\Suvam\\source\\repos\\TheCpp\\TheCpp\\x64\\Debug\\vc145.pdb",
+                "TheCpp\\x64\\Debug\\",
+                "C:\\Users\\Suvam\\source\\repos\\TheCpp\\TheCpp\\x64\\Debug\\func.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "func.h",
+                    "source-path": "c:\\users\\suvam\\source\\repos\\thecpp\\func.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
